@@ -1,1 +1,32 @@
-[ ]
+[
+    {
+    "name": "serumlead1",
+    "file": "samples/heartbeat_Serum #2.wav",
+    "bpm": "135",
+    "loop": "1m"
+  },
+  {
+    "name": "serumlead2",
+    "file": "samples/heartbeat_Serum.wav",
+    "bpm": "135",
+    "loop": "1m"
+  },
+  {
+    "name": "serumbass",
+    "file": "samples/heartbeat_Synth- SawPluck.wav",
+    "bpm": "135",
+    "loop": "1m"
+  },
+  {
+    "name": "zenologylead1",
+    "file": "samples/heartbeat_ZENOLOGY #2.wav",
+    "bpm": "135",
+    "loop": "1m"
+  },
+  {
+    "name": "zenologypiano",
+    "file": "samples/heartbeat_ZENOLOGY.wav",
+    "bpm": "135",
+    "loop": "1m"
+  }
+]
