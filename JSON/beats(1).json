@@ -7,7 +7,7 @@
   {
     "name": "kick",
     "pitch": "A3",
-    "pattern": "10001000"
+    "pattern": "1001001010000010"
   },
   {
     "name": "snare",
