@@ -1,32 +1,52 @@
 [
-    {
-    "name": "serumlead1",
-    "file": "samples/heartbeat_Serum #2.wav",
-    "bpm": "135",
-    "loop": "1m"
+{
+    "name": "bass",
+    "type": "Synth",
+    "settings": {
+      "volume": "0",
+      "detune": "0",
+      "portamento": "0.05",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": "0",
+        "partials": [],
+        "phase": 0,
+        "type": "triangle"
+      }
+    }
   },
   {
-    "name": "serumlead2",
-    "file": "samples/heartbeat_Serum.wav",
-    "bpm": "135",
-    "loop": "1m"
-  },
-  {
-    "name": "serumbass",
-    "file": "samples/heartbeat_Synth- SawPluck.wav",
-    "bpm": "135",
-    "loop": "1m"
-  },
-  {
-    "name": "zenologylead1",
-    "file": "samples/heartbeat_ZENOLOGY #2.wav",
-    "bpm": "135",
-    "loop": "1m"
-  },
-  {
-    "name": "zenologypiano",
-    "file": "samples/heartbeat_ZENOLOGY.wav",
-    "bpm": "135",
-    "loop": "1m"
+    "name": "bass",
+    "type": "Synth",
+    "settings": {
+      "volume": "0",
+      "detune": "-1204",
+      "portamento": "-0.1",
+      "envelope": {
+        "attack": "0.01",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": "0",
+        "partials": [],
+        "phase": 0,
+        "type": "amtriangle",
+        "harmonicity": "7",
+        "modulationType": "sine"
+      }
+    }
   }
 ]
